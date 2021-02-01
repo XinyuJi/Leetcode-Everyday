@@ -18,6 +18,7 @@
 | 13   | Roman to Integer | Easy | Math, String | | | 
 | 14   | Longest Common Prefix | Easy | String | | | 
 | 16   | 3Sum Closest | Medium | Array, Two Pointers | | | 
+| 17   | Letter Combinations of a Phone Number | Medium | String | Backtracking, Depth-first Search, Recursion | | 
 | 20   | Valid Parentheses | Easy | String, Stack | | | 
 | 21   | Merge Two Sorted Lists | Easy | Linked List | | | 
 | 26   | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | | * | 
@@ -173,7 +174,7 @@
     - Easy: 
         13, 14, 20, 28, 38, 58, 67, 383, 387, 434, 459, 1436, 1446, 1455
     - Medium:
-        3, 5, 6, 8, 12, 49, 91, 443, 678, 722，1432
+        3, 5, 6, 8, 12, 17, 49, 91, 443, 678, 722，1432
 
 - Dynamic Programming:
     - Easy:
@@ -387,6 +388,7 @@ Medium
 - [6] ZigZag Conversion
 - [8]String to Integer (atoi)
 - [12] Integer to Roman
+- [17] Letter Combinations of a Phone Number
 - [49] Group Anagrams
 - [91] Decode Ways
 - [443] String Compression
